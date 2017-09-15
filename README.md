@@ -1,2 +1,2 @@
 # stack_language
-Programming language based on a stack. Interpreter made in Python3.
+Programming language made in Python3.
